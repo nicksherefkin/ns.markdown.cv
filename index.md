@@ -6,73 +6,92 @@ title: Nick Sherefkin's CV
 Stanford sociology PhD student.
 
 <div id="webaddress">
-<a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a>
-| <a href="https://sociology.stanford.edu/people/nick-sherefkin">My sociology department page</a>
+<a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a> | 802-376-1841
 </div>
-
-
-## Currently
-
-Studying for PhD in sociology at Stanford
-
-### Research interests
-
-Organizations, innovation, culture, economic excess and satiation.
-
+<div id="webaddress">
+<a href="https://sociology.stanford.edu/people/nick-sherefkin">https://sociology.stanford.edu/people/nick-sherefkin</a>
+</div>
 
 ## Education
 
 `2017`
-__Relay Graduate School of Education,__ M.A.T.
+__M.A.T.__, Relay Graduate School of Education
 
 `2012`
-__Brown University__ B.A., Economics and Public Policy, magna cum laude
+__B.A.__, Economics and Public Policy, *magna cum laude*, Brown University 
 
 
-## Awards
+## Research interests
 
-`2015 - 2017`
-New York City Teaching Fellow, New York, Fall 2015 – Summer 2017 President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Cultural variation and change in economic behaviors; economic excess and satiation.
 
 
+## Working papers <!--- Publications and working papers --->
 
-## Publications
+Sherefkin, Nick. Culture and Market Reproduction: The Evolution of Board Games Since 1980.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Sherefkin, Nick. Questioning the Good of Goods with a Theory of Human Entrapment with Manufactured Objects.
 
-### Journals
+Brandtner C, Sherefkin N. Worthy of Support: Moral Failure and Audience Demand for Civic Action.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Work experience
 
-`1669`
-Lectiones opticæ.
+### Research
+`2018-20`
+__Graduate Research Assistant__, Stanford Project on the Evolution of the Nonprofit Sector & Civic Life of Cities Lab, Stanford 
 
-etc. etc. etc.
+Colloborated with team to design and distribute a survey to measure perspectives of nonprofit leaders in the Bay Area and around the world. Wrote a web crawler meeting the robots exclusion standard for ethical web data collection. Built a longitudinal corpus of website text from a representative sample of over 400 Bay Area nonprofits. 
 
-### Patents
+`2012-15`
+__Research Assistant in P-12 Policy__, MDRC, New York, NY
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Managed and analysed data for P-12 research projects studying topics ranging from the effectiveness of tiered reading intervention to trends in high school college-going behavior.
 
 
+### Teaching
+`2018-20`
+__Teaching Assistant__, Stanford University, Stanford, CA
 
-<!-- ### Footer
+SOC 002: Self and Society; Instructor: Alia Crum and Robb Willer
 
-Last updated: March 2019 -->
+SOC 202: Preparation for Senior Research; Instructor: Doug McAdam.
+
+SOC 114: Economic Sociology; Instructor: Mark Granovetter.
+
+`2015-17`
+__High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
+
+
+## Programming
+
+R and Python
+
+
+## Service
+
+`2017-20`
+Teacher and Treasurer, Stanford Prison Education Program, Stanford University
+
+`2018-20`
+Co-Chair, Association of Sociology Graduate Students, Stanford University
+
+`2017-18` 
+Graduate Student Mentor, Stanford Undergraduate Research Association
+
+`2017-18` 
+First-Year Representative, Association of Sociology Graduate Students, Stanford University
+
+
+## Honors and awards
+
+`2015-17`
+New York City Teaching Fellow, New York, NY
+
+`2015-16`
+AmeriCorps Member, New York, NY
+
+***
+
+<!-- ### Footer Last updated: March 2019 -->
 
 
