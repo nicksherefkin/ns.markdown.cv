@@ -21,31 +21,19 @@ __M.A.T.__, Relay Graduate School of Education
 __B.A.__, Economics and Public Policy, *magna cum laude*, Brown University 
 
 
-## Research interests
+## Research Interests
 
-Cultural variation and change in economic behaviors; economic excess and satiation.
+social networks, organizations, morality, culture
 
+## Conference Presentations
 
-## Working papers <!--- Publications and working papers --->
+Sherefkin, Nick and Christof Brandtner.  2020.  “Moral failure and the demand for civic action.” *American Sociological Association*, San Francisco
+
+## Working Papers <!--- Publications and working papers --->
+
+Brandtner, Christof and Nick Sherefkin. Worthy of Support: Moral Failure and Audience Demand for Civic Action.
 
 Sherefkin, Nick. Culture and Market Reproduction: The Evolution of Board Games Since 1980.
-
-Sherefkin, Nick. Questioning the Good of Goods with a Theory of Human Entrapment with Manufactured Objects.
-
-Brandtner C, Sherefkin N. Worthy of Support: Moral Failure and Audience Demand for Civic Action.
-
-## Work experience
-
-### Research
-`2018-20`
-__Graduate Research Assistant__, Stanford Project on the Evolution of the Nonprofit Sector & Civic Life of Cities Lab, Stanford 
-
-Colloborated with team to design and distribute a survey to measure perspectives of nonprofit leaders in the Bay Area and around the world. Wrote a web crawler meeting the robots exclusion standard for ethical web data collection. Built a longitudinal corpus of website text from a representative sample of over 400 Bay Area nonprofits. 
-
-`2012-15`
-__Research Assistant in P-12 Policy__, MDRC, New York, NY
-
-Managed and analysed data for P-12 research projects studying topics ranging from the effectiveness of tiered reading intervention to trends in high school college-going behavior.
 
 
 ### Teaching
@@ -62,14 +50,24 @@ SOC 114: Economic Sociology; Instructor: Mark Granovetter.
 __High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
 
 
-## Programming
+## Work experience
+
+### Research
+`2018-21`
+__Graduate Research Assistant__, Stanford Project on the Evolution of the Nonprofit Sector & Civic Life of Cities Lab, Stanford 
+
+`2012-15`
+__Research Assistant in P-12 Policy__, MDRC, New York, NY
+
+
+## Other Skills
 
 R and Python
 
 
 ## Service
 
-`2017-20`
+`2017-21`
 Teacher and Treasurer, Stanford Prison Education Program, Stanford University
 
 `2018-20`
@@ -82,7 +80,10 @@ Graduate Student Mentor, Stanford Undergraduate Research Association
 First-Year Representative, Association of Sociology Graduate Students, Stanford University
 
 
-## Honors and awards
+## Honors and Awards
+
+`2021`
+Stanford Social Impact Labs: Summer Collaborative Research Fellowship, Stanford, CA
 
 `2015-17`
 New York City Teaching Fellow, New York, NY
