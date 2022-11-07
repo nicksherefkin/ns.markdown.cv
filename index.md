@@ -14,6 +14,8 @@ Stanford sociology PhD student.
 
 ## Education
 
+`Current` __ABD__ Sociology, Stanford University
+
 `2017`
 __M.A.T.__, Relay Graduate School of Education
 
@@ -23,7 +25,7 @@ __B.A.__, Economics and Public Policy, *magna cum laude*, Brown University
 
 ## Research Interests
 
-social networks, organizations, morality, culture
+social networks, markets, culture, competition, and play
 
 ## Conference Presentations
 
@@ -31,20 +33,24 @@ Sherefkin, Nick and Christof Brandtner.  2020.  “Moral failure and the demand 
 
 ## Working Papers <!--- Publications and working papers --->
 
-Brandtner, Christof and Nick Sherefkin. Worthy of Support: Moral Failure and Audience Demand for Civic Action.
+Brandtner, Christof and Nick Sherefkin. "Worthy of Support: Moral Failure and Audience Demand for Civic Action."
 
-Sherefkin, Nick. Culture and Market Reproduction: The Evolution of Board Games Since 1980.
+Sherefkin, Nick. "From Table Interactions to Cultural Innovation: How
+Bluffing, Racing and Other Social Behaviors Have
+Changed Across 38 Years of Board Game Publishing"
+
+Sherefkin, Nick. "Playfulness in Markets and Organizations."
 
 
 ### Teaching
-`2018-20`
+`2018-22`
 __Teaching Assistant__, Stanford University, Stanford, CA
 
-SOC 002: Self and Society; Instructor: Alia Crum and Robb Willer
+SOC 002: Self and Society; Instructor: Alia Crum and Robb Willer (x2)
 
-SOC 202: Preparation for Senior Research; Instructor: Doug McAdam.
+SOC 202: Preparation for Senior Research; Instructor: Doug McAdam
 
-SOC 114: Economic Sociology; Instructor: Mark Granovetter.
+SOC 114: Economic Sociology; Instructor: Mark Granovetter (x2)
 
 `2015-17`
 __High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
@@ -93,6 +99,5 @@ AmeriCorps Member, New York, NY
 
 ***
 
-<!-- ### Footer Last updated: March 2019 -->
-
+<!-- ### Footer Last updated: November 2022 -->
 
