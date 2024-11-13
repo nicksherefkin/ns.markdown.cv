@@ -14,20 +14,24 @@ Stanford sociology PhD student.
 
 ## Education
 
-`Current` __ABD__ Sociology, Stanford University
+`Current` ABD Sociology, Stanford University
+
+`2020` M.A., Sociology, Stanford University
 
 `2017`
-__M.A.T.__, Relay Graduate School of Education
+M.A.T., Relay Graduate School of Education
 
 `2012`
-__B.A.__, Economics and Public Policy, *magna cum laude*, Brown University 
+B.A., Economics and Public Policy, *magna cum laude*, Brown University 
 
 
 ## Research Interests
 
-social networks, markets, culture, competition, and play
+games, competition, play, and network methods
 
 ## Conference Presentations
+
+Nick Sherefkin, 2023. "Playfulness and Ruthlessness as Mediators Between Competition and Economic Outcomes" *American Sociological Association*, Philadelphia 
 
 Sherefkin, Nick and Christof Brandtner.  2020.  “Moral failure and the demand for civic action.” *American Sociological Association*, San Francisco
 
