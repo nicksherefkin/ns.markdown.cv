@@ -3,7 +3,7 @@ layout: cv
 title: Nick Sherefkin's CV
 ---
 # Nick Sherefkin
-Stanford sociology PhD student.
+_Dissertating PhD student specializing in the study of competition, play, and games._
 
 <div id="webaddress">
 <a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a> | 802-376-1841
@@ -14,20 +14,23 @@ Stanford sociology PhD student.
 
 ## Education
 
-`Current` ABD Sociology, Stanford University
+`Current` 
+__PhD _(in progress)_, Stanford University__ Sociology
+Dissertation: "Game Playing Communities as Inspiration for the Sociological Imagination"
 
-`2020` M.A., Sociology, Stanford University
+`2020` 
+__MA, Stanford University__ Sociology
 
 `2017`
-M.A.T., Relay Graduate School of Education
+__MAT, Relay Graduate School of Education__ High School Math
 
 `2012`
-B.A., Economics and Public Policy, *magna cum laude*, Brown University 
+__BA, *magna cum laude*, Brown University__ Economics and Public Policy 
 
 
 ## Research Interests
 
-games, competition, play, and network methods
+competition, play, games, and network methods
 
 ## Conference Presentations
 
@@ -37,18 +40,23 @@ Sherefkin, Nick and Christof Brandtner.  2020.  “Moral failure and the demand 
 
 ## Working Papers <!--- Publications and working papers --->
 
-Brandtner, Christof and Nick Sherefkin. "Worthy of Support: Moral Failure and Audience Demand for Civic Action."
+Sherefkin, Nick. "The Consequences of Playfulness for the Size and Performance of Competitive Communities"
 
-Sherefkin, Nick. "From Table Interactions to Cultural Innovation: How
-Bluffing, Racing and Other Social Behaviors Have
-Changed Across 38 Years of Board Game Publishing"
+Brandtner, Christof and __Nick Sherefkin__. "Worthy of Support: Moral Failure and Audience Demand for Civic Action."
 
-Sherefkin, Nick. "Playfulness in Markets and Organizations."
 
+## Professional experience
 
 ### Teaching
-`2018-22`
+`2023-24`
+__Lead Instructor__, Stanford University, Stanford, CA
+
+SOC 130D: Games, Competition, and Play
+
+`2018-24`
 __Teaching Assistant__, Stanford University, Stanford, CA
+
+SOC 149: The Urban Underclass; Instructor: Michael Rosenfeld
 
 SOC 002: Self and Society; Instructor: Alia Crum and Robb Willer (x2)
 
@@ -59,9 +67,6 @@ SOC 114: Economic Sociology; Instructor: Mark Granovetter (x2)
 `2015-17`
 __High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
 
-
-## Work experience
-
 ### Research
 `2018-21`
 __Graduate Research Assistant__, Stanford Project on the Evolution of the Nonprofit Sector & Civic Life of Cities Lab, Stanford 
@@ -70,12 +75,15 @@ __Graduate Research Assistant__, Stanford Project on the Evolution of the Nonpro
 __Research Assistant in P-12 Policy__, MDRC, New York, NY
 
 
-## Other Skills
+### Computing
 
-R and Python
-
+R - reporting packages; tidyverse, ggplot2, knitr.
+Python - numpy, pandas, BeautifulSoup.
 
 ## Service
+
+`2024-2025`
+Chair of Writing and Perambulation, Association of Sociology Graduate Students, Stanford University
 
 `2017-21`
 Teacher and Treasurer, Stanford Prison Education Program, Stanford University
