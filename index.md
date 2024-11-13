@@ -6,10 +6,7 @@ title: Nick Sherefkin's CV
 _Dissertating PhD student specializing in the study of competition, play, and games._
 
 <div id="webaddress">
-<a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a> | 802-376-1841
-</div>
-<div id="webaddress">
-<a href="https://sociology.stanford.edu/people/nick-sherefkin">https://sociology.stanford.edu/people/nick-sherefkin</a>
+<a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a> | <a href="https://sociology.stanford.edu/people/nick-sherefkin">https://sociology.stanford.edu/people/nick-sherefkin</a>
 </div>
 
 ## Education
@@ -27,22 +24,17 @@ __MAT, Relay Graduate School of Education__ High School Math
 `2012`
 __BA, *magna cum laude*, Brown University__ Economics and Public Policy 
 
-
-## Research Interests
-
-competition, play, games, and network methods
-
 ## Conference Presentations
 
 Nick Sherefkin, 2023. "Playfulness and Ruthlessness as Mediators Between Competition and Economic Outcomes" *American Sociological Association*, Philadelphia 
 
-Sherefkin, Nick and Christof Brandtner.  2020.  “Moral failure and the demand for civic action.” *American Sociological Association*, San Francisco
+Nick Sherefkin and Christof Brandtner.  2020.  “Moral failure and the demand for civic action.” *American Sociological Association*, San Francisco
 
 ## Working Papers <!--- Publications and working papers --->
 
 Sherefkin, Nick. "The Consequences of Playfulness for the Size and Performance of Competitive Communities"
 
-Brandtner, Christof and __Nick Sherefkin__. "Worthy of Support: Moral Failure and Audience Demand for Civic Action."
+Brandtner, Christof and Nick Sherefkin. "Worthy of Support: Moral Failure and Audience Demand for Civic Action."
 
 
 ## Professional experience
@@ -78,6 +70,7 @@ __Research Assistant in P-12 Policy__, MDRC, New York, NY
 ### Computing
 
 R - reporting packages; tidyverse, ggplot2, knitr.
+
 Python - numpy, pandas, BeautifulSoup.
 
 ## Service
@@ -111,5 +104,5 @@ AmeriCorps Member, New York, NY
 
 ***
 
-<!-- ### Footer Last updated: November 2022 -->
+<!-- ### Footer Last updated: November 2024 -->
 
