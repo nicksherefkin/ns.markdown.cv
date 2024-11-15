@@ -26,9 +26,13 @@ __BA, *magna cum laude*, Brown University__ Economics and Public Policy
 
 ## Conference Presentations
 
-Nick Sherefkin, 2023. "Playfulness and Ruthlessness as Mediators Between Competition and Economic Outcomes" *American Sociological Association*, Philadelphia 
+Nick Sherefkin, *invited for February 2025*. "A Sociological Model of Playfulness in Competitive Communities. " Annual meeting of the Association for the Study of Play. 
 
-Nick Sherefkin and Christof Brandtner.  2020.  “Moral failure and the demand for civic action.” *American Sociological Association*, San Francisco
+Nick Sherefkin, *invited for January 2025*. "The Consequences of Playfulness for the Size and Performance of Competitive Communities" Berkeley Culture Connect Conference.
+
+Nick Sherefkin, 2023. "Playfulness and Ruthlessness as Mediators Between Competition and Economic Outcomes" Annual meeting of the American Sociological Association.
+
+Nick Sherefkin and Christof Brandtner.  2020.  “Moral failure and the demand for civic action.” Annual meeting of the American Sociological Association.
 
 ## Working Papers <!--- Publications and working papers --->
 
@@ -41,20 +45,20 @@ Brandtner, Christof and Nick Sherefkin. "Worthy of Support: Moral Failure and Au
 
 ### Teaching
 `2023-24`
-__Lead Instructor__, Stanford University, Stanford, CA
+__Instructor__, Stanford University, Stanford, CA
 
-SOC 130D: Games, Competition, and Play
+SOC 130D: Games, Competition, and Play (Summers 2024 and 2023)
 
 `2018-24`
-__Teaching Assistant__, Stanford University, Stanford, CA
+__Graduate Teaching Assistant__, Stanford University, Stanford, CA
 
-SOC 149: The Urban Underclass; Instructor: Michael Rosenfeld
+SOC 149: The Urban Underclass (Spring 2024)
 
-SOC 002: Self and Society; Instructor: Alia Crum and Robb Willer (x2)
+SOC 002: Self and Society (Spring 2023 and Fall 2022)
 
-SOC 202: Preparation for Senior Research; Instructor: Doug McAdam
+SOC 114: Economic Sociology (Falls 2021 and 2018)
 
-SOC 114: Economic Sociology; Instructor: Mark Granovetter (x2)
+SOC 202: Preparation for Senior Research (Winter 2019)
 
 `2015-17`
 __High School Geometry Teacher__, Sunset Park High School, Brooklyn, NY
