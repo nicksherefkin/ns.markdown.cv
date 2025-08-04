@@ -12,14 +12,14 @@ _Sociologist of competition, play, and games._
 ## Education
 
 `Current` 
-__PhD _(in progress)_, Stanford University__ Sociology
+__PhD in Sociology_(in progress)_, Stanford University__ 
 Dissertation: "Game Playing Communities as Inspiration for the Sociological Imagination"
 
 `2020` 
-__MA, Stanford University__ Sociology
+__MA in Sociology, Stanford University__
 
 `2017`
-__MAT, Relay Graduate School of Education__ High School Math
+__Master of Arts in Teaching, Relay Graduate School of Education__ High School Math
 
 `2012`
 __BA, *magna cum laude*, Brown University__ Economics and Public Policy 
