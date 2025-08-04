@@ -3,7 +3,7 @@ layout: cv
 title: Nick Sherefkin's CV
 ---
 # Nick Sherefkin
-_Dissertating PhD sociologist of competition, play, and games._
+_Sociologist of competition, play, and games._
 
 <div id="webaddress">
 <a href="nsherefkin@gmail.com">nsherefkin@gmail.com</a> | <a href="https://sociology.stanford.edu/people/nick-sherefkin">https://sociology.stanford.edu/people/nick-sherefkin</a>
