@@ -49,7 +49,7 @@ __Instructor__, Stanford University, Stanford, CA
 
 SOC 130D: Games, Competition, and Play (Summers 2025, 2024, and 2023)
 
-`2018-24`
+`2018-25`
 __Graduate Teaching Assistant__, Stanford University, Stanford, CA
 
 SOC 149: Introduction to Urban Studies (Winter 2025)
