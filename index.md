@@ -26,9 +26,9 @@ __BA, *magna cum laude*, Brown University__ Economics and Public Policy
 
 ## Conference Presentations
 
-Nick Sherefkin, *invited for February 2025*. "A Sociological Model of Playfulness in Competitive Communities. " Annual meeting of the Association for the Study of Play. 
+Nick Sherefkin, *February 2025*. "A Sociological Model of Playfulness in Competitive Communities. " Annual meeting of the Association for the Study of Play. 
 
-Nick Sherefkin, *invited for January 2025*. "The Consequences of Playfulness for the Size and Performance of Competitive Communities" Berkeley Culture Connect Conference.
+Nick Sherefkin, *January 2025*. "The Consequences of Playfulness for the Size and Performance of Competitive Communities" Berkeley Culture Connect Conference.
 
 Nick Sherefkin, 2023. "Playfulness and Ruthlessness as Mediators Between Competition and Economic Outcomes" Annual meeting of the American Sociological Association.
 
@@ -36,9 +36,9 @@ Nick Sherefkin and Christof Brandtner.  2020.  “Moral failure and the demand f
 
 ## Working Papers <!--- Publications and working papers --->
 
-Sherefkin, Nick. "The Consequences of Playfulness for the Size and Performance of Competitive Communities"
+Sherefkin, Nick. "Sociability and the Persistence of Communities Under Performance Pressures."
 
-Brandtner, Christof and Nick Sherefkin. "Worthy of Support: Moral Failure and Audience Demand for Civic Action."
+Sherefkin, Nick. "The Emergence of Cooperative Interaction Rituals in Tabletop Gaming."
 
 
 ## Professional experience
@@ -47,7 +47,7 @@ Brandtner, Christof and Nick Sherefkin. "Worthy of Support: Moral Failure and Au
 `2023-24`
 __Instructor__, Stanford University, Stanford, CA
 
-SOC 130D: Games, Competition, and Play (Summers 2024 and 2023)
+SOC 130D: Games, Competition, and Play (Summers 2025, 2024, and 2023)
 
 `2018-24`
 __Graduate Teaching Assistant__, Stanford University, Stanford, CA
@@ -108,5 +108,5 @@ AmeriCorps Member, New York, NY
 
 ***
 
-<!-- ### Footer Last updated: November 2024 -->
+<!-- ### Footer Last updated: August 2025 -->
 
