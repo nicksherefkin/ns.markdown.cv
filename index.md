@@ -44,13 +44,15 @@ Sherefkin, Nick. "The Emergence of Cooperative Interaction Rituals in Tabletop G
 ## Professional experience
 
 ### Teaching
-`2023-24`
+`2023-25`
 __Instructor__, Stanford University, Stanford, CA
 
 SOC 130D: Games, Competition, and Play (Summers 2025, 2024, and 2023)
 
 `2018-24`
 __Graduate Teaching Assistant__, Stanford University, Stanford, CA
+
+SOC 149: Introduction to Urban Studies (Winter 2025)
 
 SOC 149: The Urban Underclass (Spring 2024)
 
